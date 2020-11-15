@@ -1,0 +1,23 @@
+{
+  "name": "github-automation",
+  "version": "1.0.0",
+  "description": "\"# Github-Automation\"",
+  "main": "index.js",
+  "dependencies": {
+    "@octokit/core": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuVar/Github-Automation.git"
+  },
+  "author": "Manu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuVar/Github-Automation/issues"
+  },
+  "homepage": "https://github.com/manuVar/Github-Automation#readme"
+}
